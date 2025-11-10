@@ -19,7 +19,7 @@ This repository provides a clean, step-by-step implementation using both **Gauss
 
 ### 🧩 File Structure
 
-
+```
 Kernel-PCA/
 │
 ├── KernelPCA.m # Main KPCA implementation
@@ -30,8 +30,7 @@ Kernel-PCA/
 ├── generateData.m # Synthetic data generator
 ├── main.m # Demo and visualization script
 └── Kernel PCA.pdf # Theoretical documentation
-
-
+```
 ### 🧠 Example Applications
 
 - Visualizing complex, non-linear datasets in lower dimensions
