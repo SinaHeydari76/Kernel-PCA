@@ -40,3 +40,10 @@ Kernel-PCA/
 - Comparing linear PCA vs. non-linear KPCA
 
 - Educational use in machine learning and data science courses
+
+### 📄 Reference
+
+The underlying concept is based on:
+```
+Schölkopf, B., Smola, A., & Müller, K.-R. (1998). Nonlinear Component Analysis as a Kernel Eigenvalue Problem. Neural Computation, 10(5), 1299–1319.
+```
