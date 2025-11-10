@@ -1,5 +1,5 @@
 # Kernel PCA
----
+
 An educational MATLAB implementation of **Kernel Principal Component Analysis (KPCA)** for non-linear dimensionality reduction.  
 This project demonstrates how kernel functions extend standard PCA by uncovering complex, non-linear structures in data through implicit feature space mapping.
 
